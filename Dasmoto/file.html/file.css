@@ -1,0 +1,22 @@
+.container{
+  max-width: 940px;
+  max-height: 120px;
+}
+.header{
+  background: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg)
+  background-size: cover;
+  height: 20px;
+  text-align: center;
+}
+.header .container{
+  position: relative;
+  top: 20px;
+}
+
+h1{
+  font-family: Helvitica sans-serif;
+  font-weight: bold;
+  color: khaki;
+  font-height: 100px;
+  text-align: center horizontal;
+}
